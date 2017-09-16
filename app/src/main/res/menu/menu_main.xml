@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ifrs.canoas.ifhelper.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_calcula_hamonica"
+        android:orderInCategory="100"
+        android:title="@string/calcula_media_harmonica"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/change_language"
+        android:icon="@drawable/ic_language_24dp"
+        android:orderInCategory="101"
+        android:title="Trocar Idioma" />
+    <item
+        android:id="@+id/mensagensMenu"
+        android:enabled="true"
+        android:icon="@drawable/ic_language_24dp"
+        android:orderInCategory="102"
+        android:title="Mensagens"
+        android:visible="true"
+        app:showAsAction="always" />
+
+</menu>

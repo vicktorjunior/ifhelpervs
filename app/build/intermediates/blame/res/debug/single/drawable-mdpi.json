@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_error_red_24dp.png",
+        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_error_red_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_unfold_more_24dp.png",
+        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_unfold_more_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_school_red_24dp.png",
+        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_school_red_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_language_24dp.png",
+        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_language_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_name.png",
+        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    }
+]

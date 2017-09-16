@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ifhelper</string>
+    <string name="bem_vindo_ao_ifhelper">Welcome to the jungle.</string>
+    <string name="media">Average</string>
+</resources>
