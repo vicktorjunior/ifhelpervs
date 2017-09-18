@@ -5,6 +5,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.support.v7.widget.ThemedSpinnerAdapter;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import ifrs.canoas.lib.EverynoteContract;
@@ -149,15 +150,54 @@ public class Note {
                 null,                                     // don't filter by row groups
                 sortOrder                                 // The sort order
         );
+
+        c.moveToFirst();
+        this.idNota = c.getInt(c.getColumnIndex(EverynoteContract.FeedEntry._ID));
+        this.data = c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_DATA));
+        this.disciplina = c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_DISCIPLINA));
+        this.texto = c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_TEXTO));
+
     }
 
-    public static List getAll() {
-        return null;
+    public static List getAll(EverynoteHelper everynoteHelper) {
+        SQLiteDatabase db = everynoteHelper.getReadableDatabase();
+
+        // Define a projection that specifies which columns from the database
+        // you will actually use after this query.
+        String[] projection = {
+                EverynoteContract.FeedEntry._ID,
+                EverynoteContract.FeedEntry.COLUMN_NAME_TITULO,
+                EverynoteContract.FeedEntry.COLUMN_NAME_TEXTO,
+                EverynoteContract.FeedEntry.COLUMN_NAME_DATA,
+                EverynoteContract.FeedEntry.COLUMN_NAME_DISCIPLINA
+        };
+
+        String sortOrder =
+                EverynoteContract.FeedEntry.COLUMN_NAME_TITULO + " DESC";
+
+        Cursor c = db.query(
+                EverynoteContract.FeedEntry.TABLE_NAME,   // The table to query
+                projection,                               // The columns to return
+                null,                                     // The columns for the WHERE clause
+                null,                                     // The values for the WHERE clause
+                null,                                     // don't group the rows
+                null,                                     // don't filter by row groups
+                sortOrder                                 // The sort order
+        );
+        c.moveToFirst();
+
+        List<Note> list = new ArrayList<>();
+        do {
+            Note nt = new Note();
+            nt.setIdNota(c.getInt(c.getColumnIndex(EverynoteContract.FeedEntry._ID)));
+            nt.setData(c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_DATA)));
+            nt.setDisciplina(c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_DISCIPLINA)));
+            nt.setTexto(c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_TEXTO)));
+            nt.setTitulo(c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_TITULO)));
+            list.add(nt);
+        }while(c.moveToNext());
+        return list;
     }
 
-    public void getByDisciplina(int idDisciplina) {
 
-    }
-
-    public void deleteByYear(int ano) {}
 }

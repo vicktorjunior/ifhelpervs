@@ -23,6 +23,7 @@
     <string name="meus_cursos">Meus cursos</string>
     <string name="title_activity_listar_mensagem">ListarMensagem</string>
     <string name="minhas_mensagens">Minhas mensagens</string>
+    <string name="title_activity_notes">NotesActivity</string>
 
     <!-- Strings related to login -->
 </resources>
