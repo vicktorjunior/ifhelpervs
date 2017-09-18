@@ -1,154 +1,306 @@
 [
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/developer/.android/build-cache/6fd0c548e013768fc2f27cd6261a4ddcaa8124bf/output/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/home/developer/.android/build-cache/6fd0c548e013768fc2f27cd6261a4ddcaa8124bf/output/res/drawable/design_ic_visibility.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\drawable\\design_ic_visibility.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/developer/.android/build-cache/6fd0c548e013768fc2f27cd6261a4ddcaa8124bf/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/developer/.android/build-cache/6fd0c548e013768fc2f27cd6261a4ddcaa8124bf/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/drawable/abc_ic_menu_overflow_material.xml"
     }
 ]

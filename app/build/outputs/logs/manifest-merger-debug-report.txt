@@ -1,142 +1,142 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:2:1-66:12
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:2:1-66:12
 	package
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:3:5-35
-		INJECTED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml
+		INJECTED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml
+		INJECTED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:8:5-71
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:8:5-71
 	android:name
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:8:22-68
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:8:22-68
 uses-permission#android.permission.READ_PROFILE
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:9:5-71
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:9:5-71
 	android:name
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:9:22-68
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:9:22-68
 uses-permission#android.permission.READ_CONTACTS
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:10:5-72
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:10:5-72
 	android:name
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:10:22-69
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:10:22-69
 application
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:12:5-64:19
-MERGED from [com.android.support:design:24.2.0] C:\Users\VictorJr\.android\build-cache\b44221bd61490b43b3fcd40c21c995f33dda707f\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\VictorJr\.android\build-cache\fa89c83bbd509e738edb3715506673e8d803dbc7\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\VictorJr\.android\build-cache\ba6e2dac074692b58056cf3f30f6249b1a68c7b1\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\VictorJr\.android\build-cache\6acb6e8950409d1934b7b37824d2054bf175c2ab\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:24.2.0] C:\Users\VictorJr\.android\build-cache\b97a7c55fc1d056ca69dbe2e3a16db4ad53c695e\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\VictorJr\.android\build-cache\b7078b688823f3bf0d7aafd2bd20ce87a7e297f1\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\VictorJr\.android\build-cache\99f7631d17a2d25090395aac6dbaefe748e7eb4f\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\VictorJr\.android\build-cache\827b5cc502f75be84b3501b713ddae51d2dc1bee\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\VictorJr\.android\build-cache\019ac23292c1dd8911d9b22bb3a5407640cd56bb\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.0] C:\Users\VictorJr\.android\build-cache\b76468da3621c43074f792425d79e1b8639c993d\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VictorJr\.android\build-cache\35203011cdafd54684f139179c372ffbc7a9936a\output\AndroidManifest.xml:9:5-20
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:12:5-64:19
+MERGED from [com.android.support:design:24.2.0] /home/developer/.android/build-cache/6fd0c548e013768fc2f27cd6261a4ddcaa8124bf/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/developer/.android/build-cache/98a2e43325607ed7025d04b443bff17df543ab73/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/developer/.android/build-cache/602b7b5a08fec04d9f464544d0bf437dda73cec1/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /home/developer/.android/build-cache/1d30230cc6914043f947d80d2ed21e9e752920d5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /home/developer/.android/build-cache/48a136fb79b0610f7bd1b0cb0918c86d249587f5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/developer/.android/build-cache/920e919d3afc1710404017c1bcd10b8609f949c8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/developer/.android/build-cache/3b5c2b5d9aec99b74f4ddf799624356b8deafffe/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/developer/.android/build-cache/21c74b87ac082aef834342bd713e7562862bda6c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/developer/.android/build-cache/8226b538964fa4b7cda2a58d954d65e2f9360480/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/developer/.android/build-cache/5f04b9dd6b59d9b933b8d5e83a3fd69cd77460cd/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:15:9-41
 	android:supportsRtl
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:16:9-35
 	android:allowBackup
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:13:9-35
 	android:icon
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:14:9-43
 	android:theme
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:17:9-40
 activity#ifrs.canoas.ifhelper.MainActivity
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:18:9-27:20
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:18:9-27:20
 	android:label
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:20:13-45
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:20:13-45
 	android:theme
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:21:13-56
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:21:13-56
 	android:name
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:19:13-41
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:19:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:25:27-74
 activity#ifrs.canoas.ifhelper.geral.CalculaFaltasActivity
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:28:9-65
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:28:9-65
 	android:name
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:28:19-62
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:28:19-62
 activity#ifrs.canoas.ifhelper.geral.LoginActivity
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:29:9-37:20
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:29:9-37:20
 	android:label
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:31:13-57
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:31:13-57
 	android:parentActivityName
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:32:13-55
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:32:13-55
 	android:theme
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:33:13-56
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:30:13-48
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:30:13-48
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:34:13-36:69
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:34:13-36:69
 	android:value
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:36:17-66
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:36:17-66
 	android:name
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:35:17-63
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:35:17-63
 activity#ifrs.canoas.ifhelper.LoginNativo
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:38:9-45:20
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:38:9-45:20
 	android:label
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:40:13-64
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:40:13-64
 	android:parentActivityName
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:41:13-55
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:41:13-55
 	android:name
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:39:13-40
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:39:13-40
 activity#ifrs.canoas.ifhelper.portal.ListarCursoActivity
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:46:9-54:20
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:46:9-54:20
 	android:label
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:48:13-64
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:48:13-64
 	android:parentActivityName
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:49:13-55
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:49:13-55
 	android:theme
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:50:13-56
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:50:13-56
 	android:name
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:47:13-55
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:47:13-55
 activity#ifrs.canoas.ifhelper.portal.ListarMensagemActivity
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:55:9-63:20
+ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:55:9-63:20
 	android:label
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:57:13-67
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:57:13-67
 	android:parentActivityName
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:58:13-55
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:58:13-55
 	android:theme
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:59:13-56
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:59:13-56
 	android:name
-		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml:56:13-58
+		ADDED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml:56:13-58
 uses-sdk
-INJECTED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:24.2.0] C:\Users\VictorJr\.android\build-cache\b44221bd61490b43b3fcd40c21c995f33dda707f\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\VictorJr\.android\build-cache\fa89c83bbd509e738edb3715506673e8d803dbc7\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\VictorJr\.android\build-cache\ba6e2dac074692b58056cf3f30f6249b1a68c7b1\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\VictorJr\.android\build-cache\6acb6e8950409d1934b7b37824d2054bf175c2ab\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:24.2.0] C:\Users\VictorJr\.android\build-cache\b97a7c55fc1d056ca69dbe2e3a16db4ad53c695e\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\VictorJr\.android\build-cache\b7078b688823f3bf0d7aafd2bd20ce87a7e297f1\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\VictorJr\.android\build-cache\99f7631d17a2d25090395aac6dbaefe748e7eb4f\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\VictorJr\.android\build-cache\827b5cc502f75be84b3501b713ddae51d2dc1bee\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\VictorJr\.android\build-cache\9ffde04623c0b105d8e26dfd4c89b092471e2e97\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\VictorJr\.android\build-cache\019ac23292c1dd8911d9b22bb3a5407640cd56bb\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.0] C:\Users\VictorJr\.android\build-cache\b76468da3621c43074f792425d79e1b8639c993d\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VictorJr\.android\build-cache\35203011cdafd54684f139179c372ffbc7a9936a\output\AndroidManifest.xml:5:5-7:41
+INJECTED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.0] /home/developer/.android/build-cache/6fd0c548e013768fc2f27cd6261a4ddcaa8124bf/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/developer/.android/build-cache/98a2e43325607ed7025d04b443bff17df543ab73/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/developer/.android/build-cache/602b7b5a08fec04d9f464544d0bf437dda73cec1/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] /home/developer/.android/build-cache/1d30230cc6914043f947d80d2ed21e9e752920d5/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] /home/developer/.android/build-cache/48a136fb79b0610f7bd1b0cb0918c86d249587f5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/developer/.android/build-cache/920e919d3afc1710404017c1bcd10b8609f949c8/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/developer/.android/build-cache/3b5c2b5d9aec99b74f4ddf799624356b8deafffe/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /home/developer/.android/build-cache/73ecdb289dc51ccab38e173696b3a0fb408818ae/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/developer/.android/build-cache/21c74b87ac082aef834342bd713e7562862bda6c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /home/developer/.android/build-cache/8226b538964fa4b7cda2a58d954d65e2f9360480/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/developer/.android/build-cache/5f04b9dd6b59d9b933b8d5e83a3fd69cd77460cd/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\VictorJr\.android\build-cache\fa89c83bbd509e738edb3715506673e8d803dbc7\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml
+		INJECTED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\VictorJr\AndroidStudioProjects\ifhelper\app\src\main\AndroidManifest.xml
+		INJECTED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/AndroidManifest.xml

@@ -1,18 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_unfold_more_24dp.png",
-        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_unfold_more_24dp.png"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_unfold_more_24dp.png",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_unfold_more_24dp.png"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_school_red_24dp.png",
-        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_school_red_24dp.png"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_school_red_24dp.png",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_school_red_24dp.png"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_language_24dp.png",
-        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_language_24dp.png"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_error_red_24dp.png",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/generated/res/pngs/debug/drawable-ldpi/ic_error_red_24dp.png"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_error_red_24dp.png",
-        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_error_red_24dp.png"
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_language_24dp.png",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_language_24dp.png"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_error_red_24dp.png",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_error_red_24dp.png"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_language_24dp.png",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/generated/res/pngs/debug/drawable-ldpi/ic_language_24dp.png"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_school_red_24dp.png",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/generated/res/pngs/debug/drawable-ldpi/ic_school_red_24dp.png"
+    },
+    {
+        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_unfold_more_24dp.png",
+        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/generated/res/pngs/debug/drawable-ldpi/ic_unfold_more_24dp.png"
     }
 ]
