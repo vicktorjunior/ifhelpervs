@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

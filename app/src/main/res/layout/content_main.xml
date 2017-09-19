@@ -49,6 +49,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Calendário Acadêmico" />
+
+        <Button
+            android:id="@+id/btCrudNotas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_unfold_more_24dp"
+            android:onClick="crudNotas"
+            android:text="Crude Notas" />
     </LinearLayout>
 
 </RelativeLayout>

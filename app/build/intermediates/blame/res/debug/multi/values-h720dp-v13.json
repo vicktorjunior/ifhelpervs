@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "file": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "outputFile": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +35,31 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "file": "C:\\home\\developer\\.android\\build-cache\\2afad8dcb90b8d94ae04ebf3f2bed909267ca961\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

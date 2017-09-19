@@ -1,18 +1,26 @@
 [
     {
-        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/developer/.android/build-cache/2afad8dcb90b8d94ae04ebf3f2bed909267ca961/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\home\\developer\\.android\\build-cache\\2afad8dcb90b8d94ae04ebf3f2bed909267ca961\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\home\\developer\\.android\\build-cache\\2afad8dcb90b8d94ae04ebf3f2bed909267ca961\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

@@ -8,6 +8,7 @@ import android.view.View;
 
 import ifrs.canoas.ifhelper.geral.CalculaFaltasActivity;
 import ifrs.canoas.ifhelper.geral.LoginActivity;
+import ifrs.canoas.ifhelper.geral.NotesActivity;
 
 //Selecione a aba de todo e resolva todos eles inclusive esse
 //TODO transformar essa tela no idioma Inglês e Português (caso não tenha feito) 0,5
@@ -53,5 +54,9 @@ public class MainActivity extends DefaultActivity {
      */
     public void loginMoodle(View v){
         startActivity(new Intent(this, LoginActivity.class));
+    }
+
+    public void crudNotas(View v) {
+        startActivity(new Intent(this, NotesActivity.class));
     }
 }

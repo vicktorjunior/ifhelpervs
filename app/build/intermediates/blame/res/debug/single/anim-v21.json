@@ -1,26 +1,38 @@
 [
     {
-        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
-        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
-        "source": "/home/developer/.android/build-cache/6fd0c548e013768fc2f27cd6261a4ddcaa8124bf/output/res/anim-v21/design_appbar_state_list_animator.xml"
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
     },
     {
-        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/home/developer/.android/build-cache/6fd0c548e013768fc2f27cd6261a4ddcaa8124bf/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
     },
     {
-        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "/home/developer/AndroidStudioProjects/ifhelpervs/C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\home\\developer\\.android\\build-cache\\6fd0c548e013768fc2f27cd6261a4ddcaa8124bf\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/home/developer/AndroidStudioProjects/ifhelpervs/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/home/developer/.android/build-cache/6fd0c548e013768fc2f27cd6261a4ddcaa8124bf/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\home\\developer\\.android\\build-cache\\6fd0c548e013768fc2f27cd6261a4ddcaa8124bf\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\.android\\build-cache\\b44221bd61490b43b3fcd40c21c995f33dda707f\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\home\\developer\\.android\\build-cache\\6fd0c548e013768fc2f27cd6261a4ddcaa8124bf\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     }
 ]

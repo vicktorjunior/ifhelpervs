@@ -199,5 +199,12 @@ public class Note {
         return list;
     }
 
+    public String listToString(List<Note> list){
+        String result = "";
+        for (Note note : list) {
+            result += note.toString() + "\n";
+        }
+        return result;
+    }
 
 }
