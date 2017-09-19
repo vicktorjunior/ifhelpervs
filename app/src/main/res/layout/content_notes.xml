@@ -9,52 +9,34 @@
     tools:showIn="@layout/activity_notes">
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="368dp"
+        android:layout_height="495dp"
         android:orientation="vertical"
-        tools:ignore="UselessParent">
-
-        <EditText
-            android:id="@+id/txtTitulo"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center_horizontal"
-            android:inputType="text" />
-
-        <EditText
-            android:id="@+id/txtDescricao"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center_horizontal"
-            android:inputType="text" />
-
-        <EditText
-            android:id="@+id/txtDisciplina"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center_horizontal"
-            android:inputType="text" />
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:onClick="insertNote"
-            android:text="Inserir Nota"/>
-
+        tools:ignore="UselessParent"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
 
 
 
         <ListView
-            android:id="@+id/noteList"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-
-        </ListView>
-
-        <TextView
             android:id="@+id/tvNotas"
+            android:layout_width="356dp"
+            android:layout_height="wrap_content"
+
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="36dp" />
+
+
+
+
+        <!--
+        <ListView
+            android:id="@+id/CursosListView"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="36dp" />-->
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>

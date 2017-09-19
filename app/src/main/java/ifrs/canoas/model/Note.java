@@ -112,7 +112,7 @@ public class Note {
     public void delete(EverynoteHelper everynoteHelper){
         SQLiteDatabase db = everynoteHelper.getReadableDatabase();
         // Define 'where' part of query.
-        String selection = EverynoteContract.FeedEntry._ID + " LIKE ?";
+        String selection = EverynoteContract.FeedEntry._ID + " = ?";
         // Specify arguments in placeholder order.
         String[] selectionArgs = { String.valueOf(this.idNota) };
         // Issue SQL statement.
@@ -159,8 +159,9 @@ public class Note {
 
     }
 
-    public static List getAll(EverynoteHelper everynoteHelper) {
+    public static List<Note> getAll(EverynoteHelper everynoteHelper) {
         SQLiteDatabase db = everynoteHelper.getReadableDatabase();
+        List<Note> list = new ArrayList<>();
 
         // Define a projection that specifies which columns from the database
         // you will actually use after this query.
@@ -184,27 +185,34 @@ public class Note {
                 null,                                     // don't filter by row groups
                 sortOrder                                 // The sort order
         );
-        c.moveToFirst();
+        if (c.getCount() > 0) {
+            c.moveToFirst();
 
-        List<Note> list = new ArrayList<>();
-        do {
-            Note nt = new Note();
-            nt.setIdNota(c.getInt(c.getColumnIndex(EverynoteContract.FeedEntry._ID)));
-            nt.setData(c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_DATA)));
-            nt.setDisciplina(c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_DISCIPLINA)));
-            nt.setTexto(c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_TEXTO)));
-            nt.setTitulo(c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_TITULO)));
-            list.add(nt);
-        }while(c.moveToNext());
+            do {
+                Note nt = new Note();
+                nt.setIdNota(c.getInt(c.getColumnIndex(EverynoteContract.FeedEntry._ID)));
+                nt.setData(c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_DATA)));
+                nt.setDisciplina(c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_DISCIPLINA)));
+                nt.setTexto(c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_TEXTO)));
+                nt.setTitulo(c.getString(c.getColumnIndex(EverynoteContract.FeedEntry.COLUMN_NAME_TITULO)));
+                list.add(nt);
+            }while(c.moveToNext());
+        }
         return list;
     }
 
-    public String listToString(List<Note> list){
+    public String listToString(List<Note> list) {
         String result = "";
         for (Note note : list) {
             result += note.toString() + "\n";
         }
         return result;
     }
+
+    @Override
+    public String toString() {
+        return "Title: " + titulo + "\tDate: " + data + "\tText: " + texto + "\tDiscipline: " + disciplina + "\n";
+    }
+
 
 }

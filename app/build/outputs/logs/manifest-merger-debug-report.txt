@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:2:1-70:12
+ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:2:1-71:12
 	package
 		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:3:5-35
 		INJECTED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml
@@ -30,7 +30,7 @@ ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\Andro
 	android:name
 		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:10:22-69
 application
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:12:5-68:19
+ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:12:5-69:19
 MERGED from [com.android.support:design:24.2.0] C:\Users\VictorJr\.android\build-cache\b44221bd61490b43b3fcd40c21c995f33dda707f\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\VictorJr\.android\build-cache\fa89c83bbd509e738edb3715506673e8d803dbc7\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\VictorJr\.android\build-cache\ba6e2dac074692b58056cf3f30f6249b1a68c7b1\output\AndroidManifest.xml:22:5-20
@@ -119,13 +119,17 @@ ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\Andro
 	android:name
 		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:56:13-58
 activity#ifrs.canoas.ifhelper.geral.NotesActivity
-ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:64:9-67:68
+ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:64:9-67:59
 	android:label
 		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:66:13-57
 	android:theme
 		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:67:13-56
 	android:name
 		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:65:13-48
+activity#ifrs.canoas.ifhelper.geral.InsertNotesActivity
+ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:68:9-72
+	android:name
+		ADDED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml:68:19-60
 uses-sdk
 INJECTED from C:\Users\VictorJr\AndroidStudioProjects\ifhelpervs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:24.2.0] C:\Users\VictorJr\.android\build-cache\b44221bd61490b43b3fcd40c21c995f33dda707f\output\AndroidManifest.xml:20:5-43

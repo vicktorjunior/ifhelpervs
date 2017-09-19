@@ -104,6 +104,10 @@
         "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_insert_notes.xml",
+        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\src\\main\\res\\layout\\activity_insert_notes.xml"
+    },
+    {
         "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "C:\\home\\developer\\.android\\build-cache\\2afad8dcb90b8d94ae04ebf3f2bed909267ca961\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
@@ -770,5 +774,9 @@
     {
         "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\VictorJr\\.android\\build-cache\\fa89c83bbd509e738edb3715506673e8d803dbc7\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_elemento.xml",
+        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\src\\main\\res\\layout\\note_elemento.xml"
     }
 ]
