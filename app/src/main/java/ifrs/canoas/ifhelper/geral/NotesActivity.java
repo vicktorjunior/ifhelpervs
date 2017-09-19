@@ -19,6 +19,7 @@ import java.util.List;
 
 import ifrs.canoas.ifhelper.R;
 import ifrs.canoas.lib.EverynoteHelper;
+import ifrs.canoas.lib.NoteAdapter;
 import ifrs.canoas.model.Note;
 
 public class NotesActivity extends AppCompatActivity {
@@ -29,7 +30,7 @@ public class NotesActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
 
         //List<Note> notesList= new ArrayList<Note>();
-        helper = new EverynoteHelper(getApplicationContext());
+        helper = new EverynoteHelper(getBaseContext());
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_notes);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
@@ -44,8 +45,11 @@ public class NotesActivity extends AppCompatActivity {
             }
         });
 
-        TextView notasAdicionadas = (TextView) findViewById(R.id.tvNotas);
-        notasAdicionadas.setText(notasAdicionadas.getText() + note.listToString(Note.getAll(helper)));
+        ListView notasAdicionadas = (ListView) findViewById(R.id.tvNotas);
+        if (Note.getAll(helper) != null)
+            notasAdicionadas.setAdapter(new NoteAdapter(getApplicationContext(), Note.getAll(helper)));
+
+
 
         //notesList.addAll(Note.getAll(helper));
         //ArrayAdapter<Note> adapter = new ArrayAdapter<Note>(this,android.R.layout.simple_list_item_1,notesList);
@@ -79,7 +83,7 @@ public class NotesActivity extends AppCompatActivity {
     private void listNotes(EverynoteHelper helper) {
         Note note = new Note();
         List<Note> noteList = new ArrayList<Note>();
-        ListView listView = (ListView) findViewById(R.id.noteList);
+        //ListView listView = (ListView) findViewById(R.id.noteList);
         noteList.addAll(Note.getAll(helper));
         // initialize listview
        // listView.setAdapter(new CustomAdapterArrayAdapter(NotesActivity.this,noteList));

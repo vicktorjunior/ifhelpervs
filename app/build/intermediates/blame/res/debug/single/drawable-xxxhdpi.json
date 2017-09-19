@@ -1,7 +1,7 @@
 [
     {
-        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_error_red_24dp.png",
-        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_error_red_24dp.png"
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_unfold_more_24dp.png",
+        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_unfold_more_24dp.png"
     },
     {
         "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_language_24dp.png",
@@ -16,35 +16,43 @@
         "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_error_red_24dp.png"
     },
     {
-        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_unfold_more_24dp.png",
-        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_unfold_more_24dp.png"
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_edit_black_24dp.png",
+        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_edit_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_language_24dp.png",
         "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_language_24dp.png"
     },
     {
-        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_language_24dp.png",
-        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_language_24dp.png"
-    },
-    {
         "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_unfold_more_24dp.png",
         "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_unfold_more_24dp.png"
     },
     {
-        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_school_red_24dp.png",
-        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_school_red_24dp.png"
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_error_red_24dp.png",
+        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelper\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_error_red_24dp.png"
     },
     {
         "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_unfold_more_24dp.png",
         "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_unfold_more_24dp.png"
     },
     {
-        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_school_red_24dp.png",
-        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_school_red_24dp.png"
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_delete_black_24dp.png",
+        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_delete_black_24dp.png"
     },
     {
         "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_error_red_24dp.png",
         "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_error_red_24dp.png"
+    },
+    {
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_language_24dp.png",
+        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_language_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_school_red_24dp.png",
+        "source": "C:\\Users\\VictorJr\\AndroidStudioProjects\\ifhelpervs\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_school_red_24dp.png"
+    },
+    {
+        "merged": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_school_red_24dp.png",
+        "source": "C:\\home\\developer\\AndroidStudioProjects\\ifhelpervs\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_school_red_24dp.png"
     }
 ]
