@@ -26,8 +26,6 @@
             tools:layout_editor_absoluteY="36dp" />
 
 
-
-
         <!--
         <ListView
             android:id="@+id/CursosListView"

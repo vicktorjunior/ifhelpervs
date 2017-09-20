@@ -1,6 +1,7 @@
 package ifrs.canoas.lib;
 
 import android.content.Context;
+import android.database.Cursor;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -24,6 +25,7 @@ public class NoteAdapter extends BaseAdapter {
 
     private Context context;
     private List<Note> list;
+    private Note note;
 
     public NoteAdapter(Context context, List<Note> list) {
         this.context = context;
@@ -82,6 +84,22 @@ public class NoteAdapter extends BaseAdapter {
                     }
                 });
 
+        Button btnEdit = (Button) layout.findViewById(R.id.notaEdit);
+        btnEdit.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                EverynoteHelper everynoteHelper = new EverynoteHelper(context);
+                int position = note.getIdNota();
+                Cursor cursor = null;
+                Log.d("debug", "listener delete acionada!");
+                String codigo;
+                cursor.moveToPosition(position);
+                codigo = cursor.getString(cursor.getColumnIndexOrThrow(EverynoteContract.FeedEntry._ID));
+                note.setTitulo(layout.findViewById(R.id.notaTitulo).toString());
+                note.setTexto(layout.findViewById(R.id.notaTexto).toString());
+                note.setTitulo(layout.findViewById(R.id.txtDiscipline).toString());
+                note.update(everynoteHelper);
+            }
+        });
 
 
 
