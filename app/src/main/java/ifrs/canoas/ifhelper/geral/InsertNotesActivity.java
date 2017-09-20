@@ -41,5 +41,6 @@ public class InsertNotesActivity extends AppCompatActivity {
         discipline.setText("");
         view.refreshDrawableState();
         //Log.d("DEBUG", "Notas " + Note.getAll(dbHelper).toString() + " " + Note.getAll(dbHelper).size());
+
     }
 }

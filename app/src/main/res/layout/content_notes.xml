@@ -22,7 +22,6 @@
             android:id="@+id/tvNotas"
             android:layout_width="356dp"
             android:layout_height="wrap_content"
-
             tools:layout_editor_absoluteX="8dp"
             tools:layout_editor_absoluteY="36dp" />
 

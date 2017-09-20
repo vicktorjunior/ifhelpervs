@@ -14,21 +14,51 @@
         tools:layout_editor_absoluteY="8dp"
         tools:layout_editor_absoluteX="8dp">
 
-    <EditText
+        <TextView
+            android:id="@+id/titulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Título"
+            tools:layout_editor_absoluteX="174dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+
+        <EditText
         android:id="@+id/txtTitulo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:inputType="text" />
 
-    <EditText
+        <TextView
+            android:id="@+id/texto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Texto"
+            tools:layout_editor_absoluteX="174dp"
+            tools:layout_editor_absoluteY="105dp" />
+
+
+        <EditText
         android:id="@+id/txtDescricao"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:inputType="text" />
 
-    <EditText
+        <TextView
+            android:id="@+id/discipline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Disciplina"
+            tools:layout_editor_absoluteX="174dp"
+            tools:layout_editor_absoluteY="105dp" />
+
+
+        <EditText
         android:id="@+id/txtDisciplina"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

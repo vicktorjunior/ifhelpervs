@@ -67,7 +67,7 @@ public class NoteAdapter extends BaseAdapter {
         descricao.setText(finalDesc);
 
         Button btDelete = (Button) layout.findViewById(R.id.notaDelete);
-        Button btEdit = (Button) layout.findViewById(R.id.notaEdit);
+        //Button btEdit = (Button) layout.findViewById(R.id.notaEdit);
 
         btDelete.setOnClickListener(
                 new View.OnClickListener() {
@@ -79,15 +79,10 @@ public class NoteAdapter extends BaseAdapter {
                         EverynoteHelper everynoteHelper = new EverynoteHelper(context);
                         Log.d("debug", "listener delete acionada!");
                         nota.delete(everynoteHelper);
-
-
-
-
-
-
                     }
-
                 });
+
+
 
 
         return layout;

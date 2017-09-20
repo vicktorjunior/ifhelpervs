@@ -1,5 +1,7 @@
 package ifrs.canoas.ifhelper.geral;
 
+import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -36,58 +38,35 @@ public class NotesActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        /*FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
-        });
+        });*/
 
-        ListView notasAdicionadas = (ListView) findViewById(R.id.tvNotas);
-        if (Note.getAll(helper) != null)
-            notasAdicionadas.setAdapter(new NoteAdapter(getApplicationContext(), Note.getAll(helper)));
-
-
-
-        //notesList.addAll(Note.getAll(helper));
-        //ArrayAdapter<Note> adapter = new ArrayAdapter<Note>(this,android.R.layout.simple_list_item_1,notesList);
-       // ListView lv= (ListView) findViewById(R.id.noteList);
-        //lv.setAdapter(adapter);
+        listNotes(helper);
     }
 
     public void insertNote(View view) {
+        Context contexto = getApplicationContext();
+        Intent objIntent = new Intent(contexto,InsertNotesActivity.class);
 
-            EditText title = (EditText) findViewById(R.id.txtTitulo);
-            EditText text = (EditText) findViewById(R.id.txtDescricao);
-            EditText discipline = (EditText) findViewById(R.id.txtDisciplina);
-            SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
-            note.setData(sdf.format(new Date()));
-            note.setDisciplina(discipline.getText().toString());
-            note.setTexto(text.getText().toString());
-            note.setTitulo(title.getText().toString());
-            if (!(title.getText().toString().isEmpty() || text.getText().toString().isEmpty() || discipline.getText().toString().isEmpty()))
-                note.insert(helper);
-            title.setText("");
-            text.setText("");
-            discipline.setText("");
-            view.refreshDrawableState();
-            //Log.d("DEBUG", "Notas " + Note.getAll(dbHelper).toString() + " " + Note.getAll(dbHelper).size());
-        }
+        startActivity(objIntent);
+        listNotes(helper);
+
+    }
 
     private void deleteNote() {}
 
     private void updateNote() {}
 
     private void listNotes(EverynoteHelper helper) {
-        Note note = new Note();
-        List<Note> noteList = new ArrayList<Note>();
-        //ListView listView = (ListView) findViewById(R.id.noteList);
-        noteList.addAll(Note.getAll(helper));
-        // initialize listview
-       // listView.setAdapter(new CustomAdapterArrayAdapter(NotesActivity.this,noteList));
-        // set the custom adapter to listview
+        ListView notasAdicionadas = (ListView) findViewById(R.id.tvNotas);
+        if (Note.getAll(helper) != null)
+            notasAdicionadas.setAdapter(new NoteAdapter(getApplicationContext(), Note.getAll(helper)));
     }
 
 }
